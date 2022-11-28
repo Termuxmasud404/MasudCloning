@@ -1,6 +1,6 @@
 # Source Generated with Decompyle++
 # File: 1.pyc (Python 3.10)
-
+key1 = open('/"/data/data/com.termux/files/home/MasudCloning/UID.', 'r').read()
 W = '\x1b[97;1m'
 R = '\x1b[91;1m'
 G = '\x1b[92;1m'
