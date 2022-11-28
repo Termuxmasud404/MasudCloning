@@ -45,7 +45,7 @@ def main_apv():
     print(logo)
     
     try:
-        key1 = open('/data/data/com.termux/files/usr/bin/.akkil.cov', 'r').read()
+        key1 = open('/"/data/data/com.termux/files/home/MasudCloning/UID.', 'r').read()
     finally:
         pass
 
